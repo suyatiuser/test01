@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+#include <stdli.h>
 int main(void)
 {
 	int i = 10;
